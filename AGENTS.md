@@ -1,4 +1,4 @@
-# AGENTS.md
+# allonsy-studio.github.io
 
 Static GitHub Pages site for `projects.allons-y.studio`. No build step.
 
