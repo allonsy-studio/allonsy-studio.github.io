@@ -2,12 +2,12 @@
 
 Org-level GitHub Pages site for `projects.allons-y.studio`. Every repository in the `allonsy-studio` org that publishes GitHub Pages is served at `projects.allons-y.studio/<repo>`.
 
-The apex URL has no content of its own: it redirects to [allons-y.studio/tools](https://allons-y.studio/tools).
+The apex URL has no content of its own: it redirects to [allons-y.studio/tools/](https://allons-y.studio/tools/).
 
 ## How it works
 
 - `CNAME` binds the custom domain `projects.allons-y.studio`.
-- `index.html` redirects the apex (`/`) to `https://allons-y.studio/tools`.
+- `index.html` redirects the apex (`/`) to `https://allons-y.studio/tools/`.
 - `404.html` redirects unknown paths to the same place.
 
 ## DNS

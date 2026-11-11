@@ -2,7 +2,7 @@
 
 Static GitHub Pages site for `projects.allons-y.studio`. No build step.
 
-- `index.html` and `404.html` redirect to `https://allons-y.studio/tools`; keep them identical.
+- `index.html` and `404.html` redirect to `https://allons-y.studio/tools/`; keep them identical.
 - `CNAME` must contain only `projects.allons-y.studio`.
 
 ## Conventions
